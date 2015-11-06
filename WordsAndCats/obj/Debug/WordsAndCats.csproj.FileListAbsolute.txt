@@ -1,0 +1,6 @@
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\bin\Debug\WordsAndCats.exe.config
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\bin\Debug\WordsAndCats.exe
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\bin\Debug\WordsAndCats.pdb
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\obj\Debug\WordsAndCats.csprojResolveAssemblyReference.cache
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\obj\Debug\WordsAndCats.exe
+c:\users\hppc\documents\visual studio 2015\Projects\WordsAndCats\WordsAndCats\obj\Debug\WordsAndCats.pdb
